@@ -1,0 +1,25 @@
+Q.1 What’s Constructor And Its Purpose?
+Answer: Constructor is used to create and initialize objects created from a class the purpose of a Constructor is to set up the initial state of an object when it is created.
+Q.2 Explain This Keyword and Its Purpose?
+Answer: In JavaScript “this” keyword refers to an object and used to called an boject and the purpose of the this keywared is to refer to an instant of an object from own method
+Q.3 What’s Call Apply Bind Method & Difference Between them
+Answer:  The “bind” method creates a copy of the function and sets the keyword and The “call” and “apply” methods set the keyword and call the function immediately and The main difference between “call” and “bind” is that “call” invokes the function and allows you to pass in arguments one by one. “Apply” invokes the function and allows you to pass in arguments as an array
+Q.4 Explain OOPS ? 
+Answer: Object-oriented programming (OOP) is a programming paradigm that uses objects to design applications and  OOP aims to implement real-world entities
+Q.5 Whats Abstraction and Its Purpose?
+Answer: Abstraction is a process of hiding or removing unnecessary details from something and The purpose of abstraction is to reduce complexity by hiding unnecessary details from the user
+Q.6 Whats Polymorphism and Purpose of it?
+Answer: Polymorphism is a feature of object-oriented programming that allows objects of different classes to be treated and The purpose of polymorphism is to allow objects of different classes to be treated as if they were objects of the same class
+Q.7  Whats Inheritance and Purpose of it?
+Answer: Inheritance is a feature of object-oriented programming that allows you to define a new class based on an existing class and The purpose of inheritance is to allow you to reuse code that is already written. Instead of writing new code from scratch
+Q.8 Whats Encapsulation and Purpose of it ?
+Answer: Encapsulation is a feature of object-oriented programming that allows you to hide the implementation details of a class from other objects and The purpose of encapsulation is to protect the integrity of an objects data by preventing it from being modified by external objects
+Q.9 Explain Class in JavaScript?
+Answer: In JavaScript class is a type of function that defines a blueprint for creating objects. Classes are declared with the class keyword and can be used to create multiple objects 
+Q.10 What’s Super Keyword & What it does?
+Answer: In JavaScript super keyword is used to access properties on an object literal or class’s prototype or invoke a superclass’s constructor.
+
+
+
+
+
